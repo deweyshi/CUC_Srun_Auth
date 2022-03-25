@@ -21,8 +21,8 @@
 if (usr === "这填账号" || pwd === "这填密码") {
     alert("首次使用，请修改脚本的第15、17行代码以添加自己的账号和密码。");
 } else{
-		document.getElementById("username").value = usr;
-		document.getElementById("password").value = pwd;
-		document.getElementById("login-account").click();
+	document.getElementById("username").value = usr;
+	document.getElementById("password").value = pwd;
+	document.getElementById("login-account").click();
       }
 })();
