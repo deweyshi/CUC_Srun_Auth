@@ -37,8 +37,6 @@ jsonpCallback: function () {
 中国传媒大学校园网登录（深澜认证计费系统）JavaScript版
 ## 简介
 实现访问认证页面即自动登录，需要配合Tampermonkey油猴插件等一同使用。
-## 用法
-[Greasy Fork](https://greasyfork.org/zh-CN/scripts/442061-%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E7%BD%91%E7%BB%9C%E8%AE%A4%E8%AF%81)    
-[Github](https://raw.githubusercontent.com/deweyshi/CUC_Srun_Auth/main/CUC_Srun_Auth.js)   
-[Tampermonkey](https://www.tampermonkey.net/)   
-首次使用，先编辑脚本中的账号和密码，之后可以顺畅自动登录。
+## 用法 
+复制[代码](https://raw.githubusercontent.com/deweyshi/CUC_Srun_Auth/main/CUC_Srun_Auth.js)到[Tampermonkey](https://www.tampermonkey.net/)   
+首次使用，先修改脚本中的账号和密码，之后可以顺畅自动登录。
